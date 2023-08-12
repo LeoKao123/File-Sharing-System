@@ -51,6 +51,6 @@ Hash Functions\
 Hash-Based Message Authentication Code (HMAC)\
 Hash-Based Key Derivation Function (HKDF)\
 Password-Based Key Derivation Function\
-Symmetric Encryption\
+Symmetric Encryption
 
 ---
