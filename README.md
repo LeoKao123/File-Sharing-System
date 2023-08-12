@@ -45,12 +45,12 @@ The application interfaces with two servers: the **Keystore** and the **Datastor
 The project leverages various cryptographic algorithms and functions to interact with both the Keystore and Datastore. These utilities are encapsulated within the `userlib` and are imported into `client.go`.
 
 The following cryptographic algorithms and techniques are employed:
-Public Key Encryption (PKE)
-Digital Signatures (DS)
-Hash Functions
-Hash-Based Message Authentication Code (HMAC)
-Hash-Based Key Derivation Function (HKDF)
-Password-Based Key Derivation Function
-Symmetric Encryption
+Public Key Encryption (PKE)\
+Digital Signatures (DS)\
+Hash Functions\
+Hash-Based Message Authentication Code (HMAC)\
+Hash-Based Key Derivation Function (HKDF)\
+Password-Based Key Derivation Function\
+Symmetric Encryption\
 
 ---
